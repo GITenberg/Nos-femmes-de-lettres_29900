@@ -1,0 +1,32 @@
+_repo: Nos-femmes-de-lettres_29900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flat, Paul
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '34238'
+    url: http://www.gutenberg.org/2009/agents/34238
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29900'
+  lccn: 09024305
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women and literature -- France -- History -- 20th century'
+- !lcsh 'French literature -- 20th century -- History and criticism'
+- !lcsh 'French literature -- Women authors -- History and criticism'
+- !lcc 'PQ'
+tableOfContents: Préface -- Mme. de Noailles -- Mme. Lucie Delarue-Mardrus -- Mme.
+  Henri de Régnier -- Mme. Marcelle Tinayre -- Mme. Renée Vivien -- Conclusions.
+title: Nos femmes de lettres
+url: http://www.gutenberg.org/ebooks/29900
